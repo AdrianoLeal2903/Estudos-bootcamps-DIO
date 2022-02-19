@@ -1,0 +1,29 @@
+Comandos  
+
+ls -a: Serve para listas as pastas ocultas
+
+cd: Entrar nos diretórios.
+
+cd .. : Sair dos diretórios
+
+ git config --global user.email "adriano.leal2903@gmail.com" configuar o e-mail para o autor github
+
+ git config --global user.name AdrianoLeal : Criar o autor para o github
+
+mkdir: Criar um diretorio
+
+mv nome do arquivo ./nome da pasta/ : move um arquivo para a pasta escolhida
+
+git status: Serve para avaliar o status dos arquivos a qual estou trabalhando e verificar se todas as alterações foram dispostas o Stage.
+
+
+git commit -m “informações adicionais”: Serve para realizar as alterações no diretório e ficar disponíveis no repositório local.
+
+echo > : cria um arquivo
+
+git config --list : Mostra toda a configuração que esta setada no repositório.
+
+git config --global --unset user.name: Serve para alterar alguma configuração do meu git.
+
+ git remote add origin git@github.com:AdrianoLeal2903/Receitas.git: Vai mostrar para onde eu estarei empurrando o meu repositório.
+
